@@ -1,0 +1,77 @@
+body{
+    background-image: url(img/sahyog2.jpg);
+    background-size: 100% 72%;
+    background-repeat: no-repeat;
+}
+
+i{
+  color: white;
+}
+i:hover{
+  color:purple;
+}
+
+.donatebox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 180px;
+    background-color:palevioletred;
+    width: 450px;
+    margin-top: 60px;
+    height: 250px;
+    border-radius: 25px;
+    margin-left: 17%;
+
+}
+
+.testing{
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    margin-top: 13px;
+
+}
+footer {
+	padding:20px;
+  background-color:palevioletred;
+   color:white
+}
+
+
+.sub-footer  {
+	background:#363636;
+   padding:30px;
+   color: floralwhite;
+   text-align: center;
+}
+
+footer h4 {
+	margin-bottom:30px;
+	text-transform:uppercase;
+	text-shadow:none;
+	font-weight:550;
+	color:#fff;
+}
+
+.mobile{
+  margin-left: -1cm;
+}
+
+.footer-mid{
+   margin-top:2cm;
+   margin-left:-0.5cm;
+   position: relative;
+}
+
+
+.form-group{
+  padding: 5px;
+
+  width: 80%;
+}
+
+.link-color{
+color:white;
+}
